@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Kameron', serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 60px;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Open Sans', sans-serif;
+
+  line-height: 2;
+}
+h2 {
+  font-family: 'Merienda', cursive;
+  font-size: 2.5rem;
+
+  font-weight: normal;
+}
+
+h3 {
+  font-family: monospace;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #9FC9F3;
+  position: relative;
+  padding-top: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+   background-color: #EAF6F6;
+   position: relative;
+   padding-top: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  margin-left: 200px;
+}
+.web_development-img{
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.badminton-img{
+  width: 30%;
+  height: 30%;
+  float: right;
+  margin-left: 30px;
+}
